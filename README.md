@@ -1,4 +1,7 @@
 # Project management client using React and GraphQL client
+Communicating with a node.js express server.
+
+![System Architecture](graphQL.png)
 
 dependencies:
 - @apollo/client
